@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>627839249071-tvmdqs24crkobks3i9mi65a9sna761gr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.627839249071-tvmdqs24crkobks3i9mi65a9sna761gr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>627839249071-11nupf12up8oha7r4d45qn95pjolvqbn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBI5A7Bh_MF7dbHtL7XZNRZUsSx2b8_HYs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>627839249071</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.entemarket</string>
+	<key>PROJECT_ID</key>
+	<string>entemarket-b98c8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>entemarket-b98c8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:627839249071:ios:227816dd170d289c87825a</string>
+	<key>DATABASE_URL</key>
+	<string>https://entemarket-b98c8-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
